@@ -6,7 +6,8 @@
 - [ ] **Hyprland** config because I made it default
 ---
 **Screenshot** ***Tsubasa Hanekawa neko***
-![Image!](/Users/vadimdzubin/HyprlandGitHub/ScreenShots/Rice1.png)
+<img width="1920" height="1080" alt="Rice1" src="https://github.com/user-attachments/assets/b9d24daa-2df0-4cc8-aecf-123d16eb2df9" />
+
 ---
 ## 2. **Pixel City 🌃**
 
