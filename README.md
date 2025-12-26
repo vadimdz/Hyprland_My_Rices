@@ -17,9 +17,9 @@
 - [X] **Neofetch + Cava**
 ---
 **Screenshot** ***Pixel City***
-![Image!](/Users/vadimdzubin/HyprlandGitHub/PixelCity/PixelCity-HyprlandRice-main/ScreenShots/2025-07-28-125947_hyprshot.png)
+<img width="1920" height="1080" alt="2025-07-28-125947_hyprshot" src="https://github.com/user-attachments/assets/e657e63e-c3eb-410d-80e0-0c598664ff27" />
 ---
-![Image!](/Users/vadimdzubin/HyprlandGitHub/PixelCity/PixelCity-HyprlandRice-main/ScreenShots/2025-07-28-125511_hyprshot.png)
+<img width="1920" height="1080" alt="2025-07-28-125511_hyprshot" src="https://github.com/user-attachments/assets/7624357b-f66e-4433-8265-66590173946e" />
 ---
 ## 3. **Pixel Sakkura 🌸**
 
