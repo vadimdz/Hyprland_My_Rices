@@ -35,7 +35,7 @@
 - [X] **Waybar** configuration + cava
 ---
 **Screenshots** ***C.C***
-![Image!](/Users/vadimdzubin/HyprlandGitHub/ScreenShots/Rice3.png)
+<img width="1920" height="1080" alt="Rice3" src="https://github.com/user-attachments/assets/008902d6-f97f-4458-b925-2757baef3921" />
 ---
 ## 5. **Minimal Arch linux 🍚**
 
@@ -44,9 +44,10 @@
 - [X] **Wofi** Application launcher
 ---
 **Screenshots** ***Minimal Arch***
-![Image!](/Users/vadimdzubin/HyprlandGitHub/ScreenShots/Rice4.png)
+<img width="1920" height="1080" alt="Rice4" src="https://github.com/user-attachments/assets/65078832-c3f8-4840-9158-4b5eff322e2c" />
 ---
-![Image!](/Users/vadimdzubin/HyprlandGitHub/ScreenShots/Rice4.2.png)
+<img width="1920" height="1080" alt="Rice4 2" src="https://github.com/user-attachments/assets/93807c12-992b-44e8-ae43-8cdeb4a94299" />
+
 
 
 
