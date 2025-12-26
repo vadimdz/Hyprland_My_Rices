@@ -27,8 +27,9 @@
 - [X] **Hyprland** configuration
 ---
 **Screenshot** ***Pixel Sakura***
-![Image!](/Users/vadimdzubin/HyprlandGitHub/ScreenShots/Rice2.1.png)
+<img width="1920" height="1080" alt="Rice2 1" src="https://github.com/user-attachments/assets/6776ef14-aac9-43c7-aeff-ecc66caaf5c2" />
 ---
+
 ## 4. **C.C (code geass)💚**
 
 - [X] **Waybar** configuration + cava
